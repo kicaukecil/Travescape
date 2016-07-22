@@ -23,13 +23,13 @@
 define('DB_NAME', 'herbalsehatalami');
 
 /** MySQL database username */
-define('DB_USER', 'toor');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'bismillah123');
 
 /** MySQL hostname */
-define('DB_HOST', '139.59.251.32');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
